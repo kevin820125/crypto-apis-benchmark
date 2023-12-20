@@ -55,4 +55,4 @@ This tool is designed to benchmark and test the performance of various popular c
 
 ---
 
-Created by Mobula Labs. For more information or additional API comparisons, contact us at [contact@mobulalabs.org](mailto:contact@mobulalabs.org).
+Created by 0xKevin. For more information or some help, contact me at [kevin820125101@gmail.com](mailto:kevin820125101@gmail.com).
